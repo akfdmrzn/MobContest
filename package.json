@@ -13,7 +13,7 @@
   "author": "Kevin Mejia",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.3.11",
+    "mongoose": "^5.7.5",
     "mongoose-string-query": "^0.2.5",
     "mongoose-timestamp": "^0.6.0",
     "restify": "^7.2.2",
